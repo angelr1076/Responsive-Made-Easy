@@ -32,6 +32,7 @@ h2,
 h3 {
     color: var(--clr-primary-400);
     font-family: var(--ff-accent);
+    padding: 1.125rem;
     font-weight: 900;
     line-height: 1;
 }
