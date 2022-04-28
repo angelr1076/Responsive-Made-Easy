@@ -7,6 +7,6 @@ This comes from Kevin Powell's free course on responsive web design. CSS and sty
 Some takeaways:
 
 - Look at the desktop version (the most complex version) when writing HTML
-- When writing your CSS, don't worry about responsiveness, worry about colors, padding, etc.
+- When writing your CSS, don't worry about the complexity such as responsiveness just yet, worry about colors, padding, etc.
 - Use your media queries to add complexity (avoid overwriting things so leave them for last)
 - Look at the big picture (setting things up that are similar such as common things like columns in different sections and adding the same classes to them instead of doing everything separately)
